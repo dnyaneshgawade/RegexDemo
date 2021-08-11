@@ -7,7 +7,7 @@ namespace RegexDemo
         static void Main(string[] args)
         {
             RegexExample regexExample = new RegexExample();
-            Console.WriteLine(regexExample.Regex("Dnyanesh"));
+            Console.WriteLine(regexExample.Regex("Dnyanesh","Gawade"));
         }
     }
 }
